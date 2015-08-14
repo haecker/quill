@@ -1,5 +1,5 @@
 {
-  "name": "quill",
+  "name": "democracyos-quill",
   "version": "0.19.12",
   "description": "Cross browser rich text editor",
   "author": "Jason Chen <jhchen7@gmail.com>",
@@ -71,10 +71,10 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quilljs/quill"
+    "url": "https://github.com/DemocracyOS/quill"
   },
   "bugs": {
-    "url": "https://github.com/quilljs/quill/issues"
+    "url": "https://github.com/DemocracyOS/quill/issues"
   },
   "scripts": {
     "prepublish": "grunt dist",
